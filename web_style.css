@@ -1,0 +1,122 @@
+body
+{
+	
+text-align: center;
+margin: 0;
+}
+h1,h2,h3,h4,h5,h6
+{
+	color: #24A19C;
+}
+hr
+{
+width: 100px;
+border-style: none;
+border-top-style: dotted;
+border-color:  #24A19C;
+border-width: 7px;
+height: 10px;
+margin-top: 50px;
+}
+*{
+	
+	box-sizing: border-box;
+}
+.btn {
+   background: #24A19C;
+ padding: 2%;
+   background-image: -webkit-linear-gradient(top, #24A19C, #E2EDFA);
+   background-image: -moz-linear-gradient(top, #24A19C, #E2EDFA);
+   background-image: -ms-linear-gradient(top, #24A19C, #E2EDFA);
+   background-image: -o-linear-gradient(top, #24A19C, #E2EDFA);
+   background-image: -webkit-gradient(to bottom, #24A19C, #E2EDFA);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 8px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+  margin: 20px 0px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #D01E3B;
+   background-image: -webkit-linear-gradient(top, #D01E3B, #F63D5B);
+   background-image: -moz-linear-gradient(top, #D01E3B, #F63D5B);
+   background-image: -ms-linear-gradient(top, #D01E3B, #F63D5B);
+   background-image: -o-linear-gradient(top, #D01E3B, #F63D5B);
+   background-image: -webkit-gradient(to bottom, #D01E3B, #F63D5B);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.skills
+{
+	
+	margin: 80px 0px;
+}
+.contact-me
+{
+	width: 50%;
+	margin: 5% auto 5% auto;
+	padding: 20px;
+	line-height: 25px;
+}
+.skill-row
+{
+	width: 50%;
+	margin: 7% auto 7% auto;
+	text-align: left;
+	line-height: 30px;
+}
+.profile
+{
+	text-align: center;
+	width: 25%;
+	margin: auto;
+	line-height: 30px;
+}
+.chilles-img 
+{
+	width: 25%;
+	height: 25%;
+	float: left;
+	margin-right: 32px;
+}
+.bottom-container
+{
+	background-color: #24A19C;
+	padding: 25px;
+}
+.computer-img
+{
+	width: 25%;
+	height: 25%;
+	float: right;
+	margin-left: 32px;
+}
+.footer-link
+{
+	
+	display:inline-block;
+	color:#35858B;
+	text-decoration: none;
+	margin: 30px;
+}
+.sir-name
+{
+	color: white;
+	font-size: 10px;
+}
